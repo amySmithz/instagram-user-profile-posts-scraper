@@ -1,0 +1,11 @@
+{
+  "output_format": "json",
+  "output_path": "data/sample_output.json",
+  "max_posts_per_profile": 10,
+  "concurrency": 3,
+  "mock": true,
+  "request_timeout": 15,
+  "max_retries": 3,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+  "random_seed": "bitbash-instagram-scraper"
+}
